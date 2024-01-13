@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je suis Khiari Nabil</h1>
+<h1 align="center">Khiari Nabil</h1>
 <h2 align="center">Software Test Automation Engineer</h2>
 
 <h3 align="left">Connect with me:</h3>
